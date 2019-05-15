@@ -24,3 +24,11 @@ http://www.solveigmm.com/download/SolveigMM_Video_Splitter_Business_Edition_6_1_
 便携版：BF43A86891319AC275FF9B692438F77C
 
 ```
+
+
+# wireguard based kubernetes
+
+```
+https://propellered.com/post/kubernetes/
+
+```
